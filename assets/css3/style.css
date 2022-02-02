@@ -58,3 +58,6 @@ input.submit {
 input.submit:hover {
     background: #df8f40;
 }
+img{
+    boder-radius:50%;
+}
